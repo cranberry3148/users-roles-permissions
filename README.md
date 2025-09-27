@@ -3,7 +3,14 @@
 
 ![Logo](screenshorts/code-with-sps-154-users-roles-permissions.jpg)
 
-Filament User & Roles & Permissions.
+Filament User & Roles & Permissions for Filament v4.
+
+## Requirements
+
+- PHP 8.2+
+- Laravel 10.0+
+- Filament 4.0+
+
 ## Installation
 
 Install Using Composer
