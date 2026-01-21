@@ -20,7 +20,7 @@ use Illuminate\Support\Facades\Http;
 use Ysfkaya\FilamentPhoneInput\Forms\PhoneInput;
 use Ysfkaya\FilamentPhoneInput\PhoneInputNumberType;
 
-class EditProfile extends \Filament\Pages\Auth\EditProfile
+class EditProfile extends \Filament\Auth\Pages\EditProfile
 {
     /**
      * @return array<int | string, string | Form>
